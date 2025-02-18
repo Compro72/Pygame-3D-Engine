@@ -1,4 +1,3 @@
-# Umar Ahmed
 # 2024 - 2025
 # pygame3D Documentation
 
